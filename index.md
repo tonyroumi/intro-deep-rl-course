@@ -55,7 +55,7 @@ First day of class is Thursday, January 13, 2022 at 1:45pm-3:15pm Eastern. It wi
 </div>
 -->
 
-# Course number: CSE 190 - AI Agents
+# Course number: CSE 190 - Deep Reinforcement Learning
 
 ### Course Description
 This course will cover the basics of (1) what LLM-based AI Agents actually are; (2) where they can be useful (and where they are not); and (3) how to safely train and deploy an agent for a given virtual domain.

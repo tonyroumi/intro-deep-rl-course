@@ -1,1 +1,1 @@
-# intro-deep-rl-course
+# ai-agents-course

@@ -1,5 +1,5 @@
 ---
-title: CSE 190 - AI Agents - UCSD CSE
+title: CSE 190 - Deep Reinforcement Learning - UCSD CSE
 layout: default
 img: # heroes_journey.png
 active_tab: main_page 
@@ -116,7 +116,7 @@ There is no textbook for this course, but you will be required to puchase a vari
 Over the course of the semester, as part of the class participation each final project group must prepare one or more ~15-20 minute presentations on a research paper relevant to the course. Since these presentation will be a substantial component of the learning experience in the class, slides must be prepared and emailed to us at least 72 hours in advance of the lecture they will be presented in (e.g., by 3PM on the Monday before the presenation date), so that we can provide feedback on them. Failure to send us the slides ahead of time will result in a grade penalty on the presentation. 
 
 ### Collaboration Policy
-Homeworks are expected to be done individually, and teams of ~5 are needed for the final project.
+Homeworks are expected to be done individually.
 
 ### LLM Use Policy
 You may use LLMs for code completion on coding assignments but must submit a CREDITS.txt file noting the exact LLM you used along with prompt.

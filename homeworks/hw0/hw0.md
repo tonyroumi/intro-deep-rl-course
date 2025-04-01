@@ -243,8 +243,9 @@ python pacman.py -l tinySimple -p ValueIterationAgent -i 100
 Hint: On the tinySimple layout, running value iteration for 10 iterations should give you this output:
 
 <div class="container-fluid">
-<div class="row"><div class="col-lg-6" >
-<a href="assets/img/tinySimple_iter10.png"><img src="assets/img/tinySimple_iter10.png" style="height: 100%; width: 100%; max-width: 1000px"></a>
+<div class="row">
+<div class="col-lg-6" >
+<img src="assets/img/tinySimple_iter10.png" style="height: 100%; width: 100%; max-width: 1000px">
 </div></div></div>
 
 # Submission

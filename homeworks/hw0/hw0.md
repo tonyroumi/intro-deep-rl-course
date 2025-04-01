@@ -245,7 +245,7 @@ Hint: On the tinySimple layout, running value iteration for 10 iterations should
 <div class="container-fluid">
 <div class="row">
 <div class="col-lg-6" >
-<img src="assets/img/tinySimple_iter10.png" style="height: 100%; width: 100%; max-width: 1000px">
+<img src="/assets/img/tinySimple_iter10.png" style="height: 100%; width: 100%; max-width: 1000px">
 </div></div></div>
 
 # Submission

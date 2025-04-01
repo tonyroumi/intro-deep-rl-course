@@ -207,13 +207,13 @@ Value Iteration computes the value function $V_k(s)$ for each state $s$, which r
 
 <div class="container-fluid">
 <div class="row"><div class="col-lg-6" >
-<a href="assets/img/VI_eq.png"><img src="assets/img/VI_eq.png" style="height: 100%; width: 100%; max-width: 1000px"></a>
+<img src="img/VI_eq.png" style="height: 100%; width: 100%; max-width: 600px"></a>
 </div></div></div>
 
 Write a value iteration agent in `ValueIterationAgent`, which has been partially specified for you in `valueIterationAgents.py`. Your value iteration agent is an offline planner in the Pacman grid world, with (x, y) coordinates. The MDP (Markov Decision Process) state is the exact board configuration facing Pacman (see `PacmanMDP` class in `valueIterationAgents.py`).
 
 <div class="row"><div class="col-lg-6" >
-<a href="assets/img/panman_value_iteration.png"><img src="assets/img/panman_value_iteration.png" style="height: 100%; width: 100%; max-width: 1000px"></a>
+<img src="img/panman_value_iteration.png" style="height: 100%; width: 100%; max-width: 600px"></a>
 </div></div></div>
 
 `ValueIterationAgent` takes an MDP on construction and runs value iteration for the specified number of iterations before the constructor returns (see the `__init__` function of `ValueIterationAgent`).
@@ -245,7 +245,7 @@ Hint: On the tinySimple layout, running value iteration for 10 iterations should
 <div class="container-fluid">
 <div class="row">
 <div class="col-lg-6" >
-<img src="/assets/img/tinySimple_iter10.png" style="height: 100%; width: 100%; max-width: 1000px">
+<img src="img/tinySimple_iter10.png" style="height: 100%; width: 100%; max-width: 600px">
 </div></div></div>
 
 # Submission

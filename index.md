@@ -63,19 +63,18 @@ This course will cover the basics of (1) what LLM-based AI Agents actually are; 
 #### Rough Outline
 
 - What are agents? Starting in the 70s to today
-- Simulation environments, how they are built
-- Search / Planning in simulations
+- Simulation Environments, how they are built
+- Search / Planning in Simulations
 - Monte Carlo Methods
+- Search + RL
 - Basics of Deep RL
-- LLM Basics
-- Deep RL for language agents
-- Other LLM Agents methods – tool use, prompting
-- Human AI Collab Basics
-- Agent Safety
+- LLM (Post) Training Basics: SFT, RLHF, Preference Reward, Closed Form Methods
+- Other LLM (Post Training) Methods – Tool Use, In-context Learning, Inference Time Scaling
+- Deep RL for Language Agents
 
 
 ### Required Knowledge 
-Students should be familiar with basic CS concepts such as Search (A*, Monte Carlo Tree Search) and Deep Learning concepts such as Transformers (how self-attention works) and the basics of how Large Language Models are (pre-)trained. Students are expected to come into the class with the ability to implement these concepts from scratch (in Python/numpy) and also be able to use popular libraries such as Huggingface. Basic knowledge of Reinforcement Learning (what is a Markov Decision Process, differences between online and offline RL, RL from Human Feedback) is a plus but not required.
+Students should be familiar with basic CS concepts such as Search (BFS/DFS/A*). Students are expected to come into the class with the ability to implement these concepts from scratch (in Python/numpy) and also be able to use popular libraries such as Huggingface. Basic knowledge of Machine / Reinforcement / Deep Learning is a plus but is not required.
 
 #### Recommended Preparation for Those Without Required Knowledge
 Undergrad Intro to AI/RL, and grad level Intro to Deep Learning / NLP types of courses are highly recommended
@@ -109,11 +108,7 @@ There is no textbook for this course, but you will be required to puchase a vari
 
 - 40% - 4 Homeworks (including HW 0) - to be done individually
 - 40% - Final Project – to be in groups of ~5
-- 20% - Class participation - attendence and paper presentations
-
-
-### Paper Presentations
-Over the course of the semester, as part of the class participation each final project group must prepare one or more ~15-20 minute presentations on a research paper relevant to the course. Since these presentation will be a substantial component of the learning experience in the class, slides must be prepared and emailed to us at least 72 hours in advance of the lecture they will be presented in (e.g., by 3PM on the Monday before the presenation date), so that we can provide feedback on them. Failure to send us the slides ahead of time will result in a grade penalty on the presentation. 
+- 20% - Class participation - attendence and in-class activities
 
 ### Collaboration Policy
 Homeworks are expected to be done individually.
@@ -125,4 +120,4 @@ Writing on final projects can be edited but not entirely written with an LLM.
 Failure to comply with any of these policies will result in a 0 on that particular assignment.
 
 ### Late Day Policy
-Each student has five free "late days".  Homeworks can be submitted at most two days late.  If you are out of late days, then you will not be able to get credit for subsequent late assignments. One "day" is defined as anytime between 1 second and 24 hours after the homework deadline. The intent of the late day policy it to allow you to take extra time due to unforseen circumstances like illnesses or family emergencies, and for forseeable interruptions like on campus interviewing and religious holidays.  You do not need to ask permission to use your late days.  No additional late days are granted. **Late days only apply to the homeworks. They cannot be used on the final project, which must be finished by the final day of class.  Late days may not be used for paper presentations.**
+Each student has five free "late days".  Homeworks can be submitted at most two days late.  If you are out of late days, then you will not be able to get credit for subsequent late assignments. One "day" is defined as anytime between 1 second and 24 hours after the homework deadline. The intent of the late day policy it to allow you to take extra time due to unforseen circumstances like illnesses or family emergencies, and for forseeable interruptions like on campus interviewing and religious holidays.  You do not need to ask permission to use your late days.  No additional late days are granted. **Late days only apply to the homeworks. They cannot be used on the final project, which must be finished by the final day of class.  Late days may not be used for project presentations.**

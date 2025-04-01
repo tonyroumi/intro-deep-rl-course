@@ -205,17 +205,11 @@ python autograder.py -q q4
 
 Value Iteration computes the value function $V_k(s)$ for each state $s$, which represents the maximum expected reward achievable starting from that state. The value update equation is:
 
-<div class="container-fluid">
-<div class="row"><div class="col-lg-6" >
-<a href="hw0/VI_eq.png"><img src="hw0/VI_eq.png" style="height: 100%; width: 100%; max-width: 1000px"></a>
-</div></div></div>
+![VI_eq](/assets/img/VI_eq.png)
 
 Write a value iteration agent in `ValueIterationAgent`, which has been partially specified for you in `valueIterationAgents.py`. Your value iteration agent is an offline planner in the Pacman grid world, with (x, y) coordinates. The MDP (Markov Decision Process) state is the exact board configuration facing Pacman (see `PacmanMDP` class in `valueIterationAgents.py`).
 
-<div class="container-fluid">
-<div class="row"><div class="col-lg-6" >
-<a href="hw0/panman_value_iteration.png"><img src="hw0/panman_value_iteration.png" style="height: 100%; width: 100%; max-width: 1000px"></a>
-</div></div></div>
+![panman_value_iteration](/assets/img/panman_value_iteration.png)
 
 `ValueIterationAgent` takes an MDP on construction and runs value iteration for the specified number of iterations before the constructor returns (see the `__init__` function of `ValueIterationAgent`).
 
@@ -243,11 +237,7 @@ python pacman.py -l tinySimple -p ValueIterationAgent -i 100
 
 Hint: On the tinySimple layout, running value iteration for 10 iterations should give you this output:
 
-<div class="container-fluid">
-<div class="row"><div class="col-lg-6" >
-<a href="hw0/tinySimple_iter10.png"><img src="hw0/tinySimple_iter10.png" style="height: 100%; width: 100%; max-width: 1000px"></a>
-</div></div></div>
-
+![tinySimple_iter10](/assets/img/tinySimple_iter10.png)
 
 # Submission
 Submissions should be done on [Gradescope](https://www.gradescope.com).

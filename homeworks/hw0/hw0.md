@@ -19,7 +19,7 @@ readings:
 You can download the materials for this assignment here:
 <ul>
 {% for item in page.materials %}
-<li><a href="{{item.url}}">{{ item.name }}</a></li>
+<li><a href="{{page.materials}}">code</a></li>
 {% endfor %}
 </ul>
 </div>
@@ -205,11 +205,16 @@ python autograder.py -q q4
 
 Value Iteration computes the value function $V_k(s)$ for each state $s$, which represents the maximum expected reward achievable starting from that state. The value update equation is:
 
-![VI_eq](/assets/img/VI_eq.png)
+<div class="container-fluid">
+<div class="row"><div class="col-lg-6" >
+<a href="assets/img/VI_eq.png"><img src="assets/img/VI_eq.png" style="height: 100%; width: 100%; max-width: 1000px"></a>
+</div></div></div>
 
 Write a value iteration agent in `ValueIterationAgent`, which has been partially specified for you in `valueIterationAgents.py`. Your value iteration agent is an offline planner in the Pacman grid world, with (x, y) coordinates. The MDP (Markov Decision Process) state is the exact board configuration facing Pacman (see `PacmanMDP` class in `valueIterationAgents.py`).
 
-![panman_value_iteration](/assets/img/panman_value_iteration.png)
+<div class="row"><div class="col-lg-6" >
+<a href="assets/img/panman_value_iteration.png"><img src="assets/img/panman_value_iteration.png" style="height: 100%; width: 100%; max-width: 1000px"></a>
+</div></div></div>
 
 `ValueIterationAgent` takes an MDP on construction and runs value iteration for the specified number of iterations before the constructor returns (see the `__init__` function of `ValueIterationAgent`).
 
@@ -237,7 +242,10 @@ python pacman.py -l tinySimple -p ValueIterationAgent -i 100
 
 Hint: On the tinySimple layout, running value iteration for 10 iterations should give you this output:
 
-![tinySimple_iter10](/assets/img/tinySimple_iter10.png)
+<div class="container-fluid">
+<div class="row"><div class="col-lg-6" >
+<a href="assets/img/tinySimple_iter10.png"><img src="assets/img/tinySimple_iter10.png" style="height: 100%; width: 100%; max-width: 1000px"></a>
+</div></div></div>
 
 # Submission
 Submissions should be done on [Gradescope](https://www.gradescope.com).

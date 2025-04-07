@@ -14,7 +14,7 @@
 -
   date: 2025-04-08
   title: Simulated Environments and Reality
-  slides: 
+  slides: simulations_and_reality.pdf
   readings:
         -
           title: A Systematic Survey of Text Worlds as Embodied Natural Language Environments
@@ -27,7 +27,7 @@
 -
   date: 2025-04-10
   title: How to Make a Simulation?
-  slides: simulations_and_reality.pdf
+  slides:
   readings:
         -
           title: Intro to PDDL

@@ -47,3 +47,37 @@
           title: "GET LAMP: The Text Adventure Documentary"
           length: 2 hours
           optional: true
+-
+  date: 2025-04-15
+  title: HW0 Due
+  type: homework
+- 
+  date: 2025-04-15
+  title: Search for Planning in Simulations
+  slides: search_planning_simulation.pdf
+  readings:
+        -
+          title: Intro to STRIPS
+          url: https://www.primaryobjects.com/2015/11/06/artificial-intelligence-planning-with-strips-a-gentle-introduction/
+          authors: Kory Becker
+        -
+          title: AIMA Chapter 11
+          url: https://aima.cs.berkeley.edu/newchap11.pdf
+          authors: Stuart Russell and Peter Norvig
+        -
+          title: RL Book Chapter 8.1, 8.9-8.11
+          url: http://incompleteideas.net/book/RLbook2020.pdf
+          authors: Rich Sutton and Andrew Barto
+-
+  date: 2025-04-17
+  title: Finalize Project Groups
+  type: deadline
+-
+  date: 2025-04-17
+  title: Classical Control, Pre-Deep Learning
+  slides:
+  readings:
+        -
+          title: RL Book Chapter 4, 5
+          url: http://incompleteideas.net/book/RLbook2020.pdf
+          authors: Rich Sutton and Andrew Barto

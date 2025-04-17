@@ -75,7 +75,7 @@
 -
   date: 2025-04-17
   title: Classical Control, Pre-Deep Learning
-  slides:
+  slides: classical_control.pdf
   readings:
         -
           title: RL Book Chapter 4, 5

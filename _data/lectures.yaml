@@ -116,7 +116,7 @@
 -
   date: 2025-05-01
   title: Reinforcement Learning and Search Combined
-  slides: rl_search_combined.pdf
+  slides:
   readings:
         -
           title: (Alpha Zero) Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
@@ -132,3 +132,20 @@
           url: https://arxiv.org/abs/1911.08265
           authors: Schrittwieser et al. 2019
           optional: True
+-
+  date: 2025-05-06
+  title: Attention and Language Modeling
+  slides:
+  readings:
+        -
+          title: Attention is All You Need
+          url: https://arxiv.org/abs/1706.03762
+          authors: Vaswani et al.
+        -
+          title: The Illustrated Transformer
+          url: https://jalammar.github.io/illustrated-transformer/
+          authors: Jay Alammar
+        -
+          title: Language Models are Few Shot Learners
+          url: https://arxiv.org/abs/2005.14165
+          authors: Brown et al.

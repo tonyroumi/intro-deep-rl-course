@@ -152,7 +152,7 @@
 -
   date: 2025-05-08
   title: RL for Language Agents Pt 1 (Online RL for NLP, RLHF)
-  slides: 
+  slides: rl_language_agents_pt1.pdf
   readings:
         -
           title: RL Book Chapter 13

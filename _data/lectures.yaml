@@ -168,6 +168,10 @@
           authors: Ouyang et al.
 -
   date: 2025-05-13
+  title: HW2 Due
+  type: homework
+-
+  date: 2025-05-13
   title: RL for Language Agents Pt 2 (Rewards and Closed Form Methods)
   slides: rl_language_agents_pt2.pdf
   readings:

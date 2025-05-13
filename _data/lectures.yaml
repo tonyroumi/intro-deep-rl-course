@@ -184,7 +184,7 @@
           url: https://arxiv.org/abs/2305.18290
           authors: Rafailov et al.
 -
-  date: 2025-05-13
+  date: 2025-05-18
   title: Prompt Optimization
   slides: prompting.pdf
   readings:
@@ -206,7 +206,7 @@
           authors: Khattab et al.
           optional: True
 -
-  date: 2025-05-18
+  date: 2025-05-20
   title: Neurosymbolic Tool Use Methods and Agent Reasoning
   slides:
   readings:
@@ -227,7 +227,7 @@
           url: https://arxiv.org/abs/2206.10498
           authors: Valmeekam et al.
 -
-  date: 2025-05-20
+  date: 2025-05-25
   title: Agent Reasoning and Inference Time Methods
   slides:
   readings:

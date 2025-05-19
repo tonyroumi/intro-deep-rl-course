@@ -236,6 +236,10 @@
   slides:
   readings:
         -
+          title: Why we think
+          url: https://lilianweng.github.io/posts/2025-05-01-thinking/
+          authors: Lilian Weng
+        -
           title: Quiet-STaR Language Models Can Teach Themselves to Think Before Speaking
           url: https://arxiv.org/abs/2403.09629
           authors: Zelikman et al.
@@ -247,7 +251,7 @@
           title: Stream of Search (SoS) Learning to Search in Language
           url: https://arxiv.org/abs/2404.03683
           authors: Gandhi et al.
--
+
   date: 2025-05-27
   title: Multi-Agent Systems and Human-AI Collaboration
   slides:

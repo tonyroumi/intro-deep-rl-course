@@ -188,7 +188,7 @@
           url: https://arxiv.org/abs/2305.18290
           authors: Rafailov et al.
 -
-  date: 2025-05-18
+  date: 2025-05-15
   title: Prompt Optimization
   slides: prompting.pdf
   readings:
@@ -251,7 +251,7 @@
           title: Stream of Search (SoS) Learning to Search in Language
           url: https://arxiv.org/abs/2404.03683
           authors: Gandhi et al.
-
+-
   date: 2025-05-27
   title: Multi-Agent Systems and Human-AI Collaboration
   slides:

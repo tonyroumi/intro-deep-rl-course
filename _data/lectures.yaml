@@ -233,7 +233,7 @@
 -
   date: 2025-05-22
   title: Agent Reasoning and Inference Time Methods
-  slides:
+  slides: inference_time_scaling.pdf
   readings:
         -
           title: Why we think

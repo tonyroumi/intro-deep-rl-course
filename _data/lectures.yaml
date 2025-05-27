@@ -254,7 +254,7 @@
 -
   date: 2025-05-27
   title: Multi-Agent Systems and Human-AI Collaboration
-  slides:
+  slides: multi_agent.pdf
   readings: 
         -
           title: LIGHT - A large-scale crowdsourced fantasy text game
@@ -275,7 +275,7 @@
 -
   date: 2025-05-29
   title: Agent Safety, Security, and Legality
-  slides:
+  slides: agent_safety.pdf
   readings:
         -
           title: Evaluating and Mitigating Discrimination in Language Model Decisions
